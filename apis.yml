@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://countrystatecity.in/
 common:
+  - type: DomainSecurity
+    url: security/countrystatecity-domain-security.yml
   - type: Website
     url: https://countrystatecity.in/
   - type: PublicAPIsListing
